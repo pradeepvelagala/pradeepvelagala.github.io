@@ -4,4 +4,4 @@
 #### GROUP : ECT- electronic communication technology
 i like to play vedio games 
 i want to became a software engineer in MNC company and lead my life with good health and happily
-![GITHUB LOGO](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+![GITHUB LOGO]()
